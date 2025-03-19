@@ -33,7 +33,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation"/>
 </div>
-
-<p align="center">
-  <i>✨ All projects crafted with AI assistance ✨</i>
-</p>
